@@ -1,0 +1,1 @@
+# qmjhl-manager-assets
